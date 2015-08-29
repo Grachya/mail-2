@@ -1,0 +1,28 @@
+<%@ include view='yrruMirrorPage_short' %>
+-------------------------------------------------------------------------------
+
+http://www.yves-rocher.ru/control/main/?shopId=NLT&cm_mmc=NLT-_-August-_-07.08.2015-_-main&utm_source=yr&utm_medium=email&utm_term=promo&utm_campaign=1-Infinity_bijoux-adv
+---------------------------------------------------------------------------------
+
+Страница Yves Rocher в Instagram: http://instagram.com/yvesrocher_russia
+Ищите нас ВКонтакте: http://vk.com/yves.rocher.russia
+Ищите нас на Facebook: http://www.facebook.com/YvesRocherRussia
+Ищите нас в Одноклассниках: http://www.odnoklassniki.ru/yves.rocher.russia
+
+С уважением,
+Компания Ив Роше
+---------------------------------------------------------------------------------
+
+ВСЕГДА НА САЙТЕ WWW.YVES-ROCHER.RU
+
+- Доставка на дом или в офис
+- Удовлетворение или возмещение
+- Бесплатные пробники
+- Защита личных данных
+
+---------------------------------------------------------------------------------
+Ваш электронный адрес находится в нашем листе рассылки.
+
+<%@ include view='yrruUnsubscriptionLink' %>
+Чтобы снова подписаться на рассылку новостей, перейдите по ссылке:
+http://www.yves-rocher.ru/control/newsletter?shopId=NLT&cm_mmc=NLT-_-August-_-07.08.2015-_-main&utm_source=yr&utm_medium=email&utm_term=promo&utm_campaign==1-Infinity_bijoux-adv
